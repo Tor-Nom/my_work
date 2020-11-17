@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e9402fe-814b-41f7-8367-e4edba4e8ef4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MyWork/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/list/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/list/reverse/reverse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/search/binary/binary.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/search/binary/二分查找" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/search/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/buble/buble.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/buble/buble_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/buble/冒泡排序" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/common/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/heap/heap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/heap/堆排序" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/insertion/insertion.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/insertion/插入排序" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/merge/merge.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/merge/合并排序" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/quick/quick.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/quick/快速排序" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/select/select.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/sort/select/选择排序" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/stringOpt/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWork/stringOpt/opt/string_reverse.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jJNbCAypziwgmci9ZknqmucKaI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ask.go.tool.to.install.GoImportsTaskConsumer" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../MyWork/stringOpt/opt" />
+      <recent name="$PROJECT_DIR$/search" />
+      <recent name="$PROJECT_DIR$/sort" />
+      <recent name="$PROJECT_DIR$/sort/buble" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build hello/list">
+    <configuration name="go build hello/list" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$/../MyWork" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../MyWork/list/main.go" />
+      <package value="hello/list" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello/search" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/search/main.go" />
+      <package value="hello/search" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello/sort" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/sort/main.go" />
+      <package value="hello/sort" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello/stringOpt" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$/../MyWork" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../MyWork/stringOpt/main.go" />
+      <package value="hello/stringOpt" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSort in hello/sort/buble" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$/sort/buble" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="hello/sort/buble" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSort\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build hello/list" />
+        <item itemvalue="Go Build.go build hello/stringOpt" />
+        <item itemvalue="Go Build.go build hello/sort" />
+        <item itemvalue="Go Build.go build hello/search" />
+        <item itemvalue="Go Test.TestSort in hello/sort/buble" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="347" key="#File_Watchers" timestamp="1603519230061">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="616" y="347" key="#File_Watchers/48.23.1392.877@48.23.1392.877" timestamp="1603519230061" />
+    <state x="206" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605334676765">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="206" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/36.23.1404.877@36.23.1404.877" timestamp="1605334676765" />
+    <state x="480" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605370437091">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="480" y="270" key="#com.intellij.fileTypes.FileTypeChooser/36.23.1404.877@36.23.1404.877" timestamp="1605370437091" />
+    <state x="504" y="172" key="#xdebugger.evaluate" timestamp="1605337434864">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="504" y="172" key="#xdebugger.evaluate/36.23.1404.877@36.23.1404.877" timestamp="1605337434864" />
+    <state x="397" y="246" key="EditFileWatcherDialog" timestamp="1603519185369">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="397" y="246" key="EditFileWatcherDialog/48.23.1392.877@48.23.1392.877" timestamp="1603519185369" />
+    <state x="643" y="330" key="EnvironmentVariablesDialog" timestamp="1603518688377">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="643" y="330" key="EnvironmentVariablesDialog/47.23.1393.877@47.23.1393.877" timestamp="1603518688377" />
+    <state width="1355" height="292" key="GridCell.Tab.0.bottom" timestamp="1605578042748">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1355" height="292" key="GridCell.Tab.0.bottom/36.23.1404.877@36.23.1404.877" timestamp="1605578042748" />
+    <state width="1351" height="231" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1603855375928" />
+    <state width="1351" height="231" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1603518633849" />
+    <state width="1351" height="231" key="GridCell.Tab.0.bottom/48.23.1392.877@48.23.1392.877" timestamp="1603519185403" />
+    <state width="1355" height="292" key="GridCell.Tab.0.center" timestamp="1605578042748">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1355" height="292" key="GridCell.Tab.0.center/36.23.1404.877@36.23.1404.877" timestamp="1605578042748" />
+    <state width="1351" height="231" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1603855375927" />
+    <state width="1351" height="231" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1603518633848" />
+    <state width="1351" height="231" key="GridCell.Tab.0.center/48.23.1392.877@48.23.1392.877" timestamp="1603519185402" />
+    <state width="1355" height="292" key="GridCell.Tab.0.left" timestamp="1605578042747">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1355" height="292" key="GridCell.Tab.0.left/36.23.1404.877@36.23.1404.877" timestamp="1605578042747" />
+    <state width="1351" height="231" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1603855375926" />
+    <state width="1351" height="231" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1603518633847" />
+    <state width="1351" height="231" key="GridCell.Tab.0.left/48.23.1392.877@48.23.1392.877" timestamp="1603519185402" />
+    <state width="1355" height="292" key="GridCell.Tab.0.right" timestamp="1605578042748">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1355" height="292" key="GridCell.Tab.0.right/36.23.1404.877@36.23.1404.877" timestamp="1605578042748" />
+    <state width="1351" height="231" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1603855375927" />
+    <state width="1351" height="231" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1603518633848" />
+    <state width="1351" height="231" key="GridCell.Tab.0.right/48.23.1392.877@48.23.1392.877" timestamp="1603519185402" />
+    <state width="1355" height="286" key="GridCell.Tab.1.bottom" timestamp="1605578042739">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1355" height="286" key="GridCell.Tab.1.bottom/36.23.1404.877@36.23.1404.877" timestamp="1605578042739" />
+    <state width="1355" height="286" key="GridCell.Tab.1.center" timestamp="1605578042739">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1355" height="286" key="GridCell.Tab.1.center/36.23.1404.877@36.23.1404.877" timestamp="1605578042739" />
+    <state width="1355" height="286" key="GridCell.Tab.1.left" timestamp="1605578042739">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1355" height="286" key="GridCell.Tab.1.left/36.23.1404.877@36.23.1404.877" timestamp="1605578042739" />
+    <state width="1355" height="286" key="GridCell.Tab.1.right" timestamp="1605578042739">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1355" height="286" key="GridCell.Tab.1.right/36.23.1404.877@36.23.1404.877" timestamp="1605578042739" />
+    <state x="570" y="171" key="RollbackChangesDialog" timestamp="1603519439797">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="570" y="171" key="RollbackChangesDialog/48.23.1392.877@48.23.1392.877" timestamp="1603519439797" />
+    <state x="236" y="100" key="SettingsEditor" timestamp="1605539214046">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="236" y="100" key="SettingsEditor/36.23.1404.877@36.23.1404.877" timestamp="1605539214046" />
+    <state x="242" y="100" key="SettingsEditor/43.23.1397.877@43.23.1397.877" timestamp="1603537671742" />
+    <state x="245" y="100" key="SettingsEditor/47.23.1393.877@47.23.1393.877" timestamp="1603518712950" />
+    <state x="246" y="100" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1603519214585" />
+    <state x="541" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603519430245">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="541" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/48.23.1392.877@48.23.1392.877" timestamp="1603519430245" />
+    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1605375080490">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup/36.23.1404.877@36.23.1404.877" timestamp="1605375080490" />
+  </component>
+</project>
