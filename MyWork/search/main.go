@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"hello/search/binary"
+	"hello/search/search_int"
 )
 
 func main() {
@@ -16,4 +17,10 @@ func main() {
 	numIndex := binary.SearchFor(22, 0, len(searchArr), searchArr)
 
 	fmt.Println("numIndex => ", numIndex)
+
+	optString := "ee1039ccc254ad222321qaads22321341wwwq1039a"
+
+	intCount := search_int.GetIntCount(optString)
+
+	fmt.Println("intCount => ",intCount)
 }

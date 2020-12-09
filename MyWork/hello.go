@@ -53,6 +53,11 @@ func (f *Fool) Bar() {
 
 func main() {
 
+	GetIntCount()
+	return
+	s := Search([]string{"(","("})
+	fmt.Println("s => ",s)
+
 	defer fmt.Println("333333")
 
 	defer func() {
@@ -75,7 +80,55 @@ func main() {
 	}
 }
 
+type IntCount struct {
+	num string
+	cnt int
+}
+
+func GetIntCount()  {
+	optString := "ee1039ccc254ad222321qaads22321341wwwq1039a"
+	var intCount []IntCount
+	strCnt := len(optString)
+	for i := 0;i<strCnt;i++ {
+		runeString := rune(optString[i])
+
+		var intStart = i
+		var intString string
+		if runeString >= 48 && runeString <= 57 {
+			for ;intStart <strCnt;intStart++ {
+				i = intStart
+				runeIntString := rune(optString[intStart])
+				if runeIntString >= 48 && runeIntString <= 57 {
+					intString = intString + string(runeIntString)
+				}else {
+					index := InArrayString(intString,intCount)
+					if index >= 0{
+						intCount[index].cnt++
+					}else {
+						intCount = append(intCount,IntCount{
+							num : intString,
+							cnt: 1,
+						})
+					}
+					break
+				}
+			}
+
+		}
+	}
+	fmt.Println("intString => ",intCount)
+
+}
 func count(ch chan int) {
 	fmt.Println("ch = > ", ch)
 	ch <- 1
+}
+
+func InArrayString(idle string,array []IntCount) int {
+	for i ,v := range array {
+		if idle == v.num {
+			return i
+		}
+	}
+	return -1
 }
